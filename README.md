@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![endymx's GitHub stats](https://github-readme-stats.vercel.app/api?username=endymx&show_icons=true&theme=tokyonight)
+&nbsp;&nbsp;&nbsp;&nbsp;
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=endymx&langs_count=5&theme=tokyonight)
+![WakaTime](https://wakatime.com/share/@endymx/93921b78-5599-4fc2-bc1c-91e7d96f1437.svg)
